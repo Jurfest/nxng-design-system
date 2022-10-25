@@ -27,7 +27,7 @@ const Template: Story<ButtonHarnessComponent> = (
   props: args,
 });
 
-export const Primary = Template.bind({});
-Primary.args = {
+export const Default = Template.bind({});
+Default.args = {
   text: 'Button',
 };
