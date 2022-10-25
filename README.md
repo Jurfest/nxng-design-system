@@ -50,6 +50,9 @@
 
 ###
 
+<!-- TODO: Add storybook components website link (Netlify or GH) -->
+<!-- TODO: Add login website login (Netlify or GH) -->
+
 <!-- ### Thats it ! :wave:
 
 ---
