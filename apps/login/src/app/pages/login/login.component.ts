@@ -30,14 +30,7 @@ export class LoginComponent {
   constructor(private fb: FormBuilder, private authService: AuthService) {}
 
   handleLogin(): void {
-    console.log('ok');
-    console.log(this.loginForm.controls.password.value);
-    console.log(this.loginForm.controls.email.value);
-
-
     if (this.loginForm.valid) {
-      console.log('here');
-
       this.isUserLoggedIn$ = this.authService
         .fakeLogin(
           String(this.loginForm.controls.password.value),
