@@ -51,7 +51,8 @@
 ###
 
 <!-- TODO: Add storybook components website link (Netlify or GH) -->
-<!-- TODO: Add login website login (Netlify or GH) -->
+<!-- TODO: Add login website link (Netlify or GH) -->
+<!-- TODO: Add figma ds link -->
 
 <!-- ### Thats it ! :wave:
 
