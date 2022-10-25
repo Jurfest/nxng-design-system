@@ -10,7 +10,7 @@ import {
 } from '@angular/forms';
 
 type OnChange = (value: string) => void;
-type OnTouch = () => void;
+type OnTouch = (value: string) => void;
 
 @Component({
   selector: 'nxng-ds-text-input',
@@ -47,7 +47,10 @@ export class TextInputComponent implements ControlValueAccessor {
   // eslint-disable-next-line @typescript-eslint/no-empty-function
   onTouch: OnTouch = () => {};
 
-  value: string | null = null;
+  set value(val: string) {
+    this.onChange(val);
+    this.onTouch(val);
+  }
 
   constructor(control: NgControl) {
     control.valueAccessor = this;

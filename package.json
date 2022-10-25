@@ -56,6 +56,7 @@
     "jest": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
     "jest-preset-angular": "~12.2.2",
+    "msw": "^0.47.4",
     "nx": "15.0.1",
     "postcss": "^8.4.5",
     "prettier": "^2.6.2",
@@ -64,5 +65,8 @@
     "ts-node": "10.9.1",
     "typescript": "~4.8.2",
     "webpack": "^5.64.0"
+  },
+  "msw": {
+    "workerDirectory": "apps/login/src"
   }
 }

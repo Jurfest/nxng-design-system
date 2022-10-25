@@ -1,5 +1,4 @@
 import { CommonModule, NgOptimizedImage } from '@angular/common';
-import { HttpClientModule } from '@angular/common/http';
 import { Component } from '@angular/core';
 import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import { SharedComponentsModule } from '@nxng-ds/shared/components';
@@ -28,17 +27,23 @@ export class LoginComponent {
   // Login simulation
   isUserLoggedIn$ = of(false);
 
-  // constructor(private fb: FormBuilder, private authService: AuthService) {}
-  constructor(private fb: FormBuilder) {}
+  constructor(private fb: FormBuilder, private authService: AuthService) {}
 
   handleLogin(): void {
+    console.log('ok');
+    console.log(this.loginForm.controls.password.value);
+    console.log(this.loginForm.controls.email.value);
+
+
     if (this.loginForm.valid) {
-      // this.isUserLoggedIn$ = this.authService
-      //   .fakeLogin(
-      //     String(this.loginForm.controls.password.value),
-      //     String(this.loginForm.controls.email.value)
-      //   )
-      //   .pipe(map(() => true));
+      console.log('here');
+
+      this.isUserLoggedIn$ = this.authService
+        .fakeLogin(
+          String(this.loginForm.controls.password.value),
+          String(this.loginForm.controls.email.value)
+        )
+        .pipe(map(() => true));
     }
   }
 }
