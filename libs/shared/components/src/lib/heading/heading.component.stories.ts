@@ -13,7 +13,7 @@ class HeadingHarnessComponent {
 }
 
 export default {
-  title: 'HeadingComponent',
+  title: 'Components/Heading',
   component: HeadingHarnessComponent,
   decorators: [
     moduleMetadata({

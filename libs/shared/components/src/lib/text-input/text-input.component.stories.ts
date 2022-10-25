@@ -2,7 +2,7 @@ import { moduleMetadata, Story, Meta } from '@storybook/angular';
 import { TextInputComponent } from './text-input.component';
 
 export default {
-  title: 'TextInputComponent',
+  title: 'Components/TextInput',
   component: TextInputComponent,
   decorators: [
     moduleMetadata({

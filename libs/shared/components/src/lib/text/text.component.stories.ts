@@ -13,7 +13,7 @@ class TextHarnessComponent {
 }
 
 export default {
-  title: 'TextComponent',
+  title: 'Components/Text',
   component: TextHarnessComponent,
   decorators: [
     moduleMetadata({

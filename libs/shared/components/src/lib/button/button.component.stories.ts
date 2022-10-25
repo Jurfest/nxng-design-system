@@ -12,7 +12,7 @@ class ButtonHarnessComponent {
 }
 
 export default {
-  title: 'ButtonComponent',
+  title: 'Components/Button',
   component: ButtonHarnessComponent,
   decorators: [
     moduleMetadata({
