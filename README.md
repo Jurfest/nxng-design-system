@@ -17,11 +17,21 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
-  <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="42" alt="nx logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <a href="https://angular.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
+  </a>
+  <a href="https://nx.dev/">
+    <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="42" alt="nx logo">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
+  </a>
+  <a href="https://storybook.js.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo"  />
+  </a>
+  <a href="https://www.figma.com/design/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  </a>
 </div>
 
 ###
@@ -33,7 +43,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diegojurfest/" target="_blank">
+  <a href="https://www.linkedin.com/in/diegojurfest/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
