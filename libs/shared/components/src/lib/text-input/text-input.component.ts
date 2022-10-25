@@ -5,8 +5,12 @@ import { Component, Input } from '@angular/core';
 import {
   ControlValueAccessor,
   FormsModule,
+  NgControl,
   ReactiveFormsModule,
 } from '@angular/forms';
+
+type OnChange = (value: string) => void;
+type OnTouch = () => void;
 
 @Component({
   selector: 'nxng-ds-text-input',
@@ -37,30 +41,27 @@ export class TextInputComponent implements ControlValueAccessor {
   @Input() placeholder = '';
 
   // TODO: Use composition pattern for text-input variants
-  // REFACTOR: - Reimplement control value accessor
-  // ControlValueAccessor
-  onChange: any = () => {};
-  onTouch: any = () => {};
-  val = '';
-  set value(val: string) {
-    this.val = val;
-    this.onChange(val);
-    this.onTouch(val);
+
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
+  onChange: OnChange = () => {};
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
+  onTouch: OnTouch = () => {};
+
+  value: string | null = null;
+
+  constructor(control: NgControl) {
+    control.valueAccessor = this;
   }
 
-  writeValue(obj: any): void {
+  writeValue(obj: string): void {
     this.value = obj;
   }
 
-  registerOnChange(fn: any): void {
+  registerOnChange(fn: OnChange): void {
     this.onChange = fn;
   }
 
-  registerOnTouched(fn: any): void {
+  registerOnTouched(fn: OnTouch): void {
     this.onTouch = fn;
-  }
-
-  setDisabledState?(isDisabled: boolean): void {
-    throw new Error('Method not implemented.');
   }
 }
