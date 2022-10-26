@@ -4,7 +4,7 @@ import { moduleMetadata, Story, Meta } from '@storybook/angular';
 import { LoginComponent } from './login.component';
 
 export default {
-  title: 'LoginComponent',
+  title: 'Pages/Login',
   component: LoginComponent,
   decorators: [
     moduleMetadata({
