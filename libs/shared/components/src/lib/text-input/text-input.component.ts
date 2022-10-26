@@ -1,11 +1,11 @@
 /* eslint-disable @typescript-eslint/member-ordering */
 /* eslint-disable @typescript-eslint/no-empty-function */
 import { CommonModule } from '@angular/common';
-import { Component, Input } from '@angular/core';
+import { Component, forwardRef, Input } from '@angular/core';
 import {
   ControlValueAccessor,
   FormsModule,
-  NgControl,
+  NG_VALUE_ACCESSOR,
   ReactiveFormsModule,
 } from '@angular/forms';
 
@@ -36,6 +36,13 @@ type OnTouch = (value: string) => void;
     />
   `,
   styles: [],
+  providers: [
+    {
+      provide: NG_VALUE_ACCESSOR,
+      multi: true,
+      useExisting: forwardRef(() => TextInputComponent),
+    },
+  ],
 })
 export class TextInputComponent implements ControlValueAccessor {
   @Input() placeholder = '';
@@ -52,9 +59,7 @@ export class TextInputComponent implements ControlValueAccessor {
     this.onTouch(val);
   }
 
-  constructor(control: NgControl) {
-    control.valueAccessor = this;
-  }
+  constructor() {}
 
   writeValue(obj: string): void {
     this.value = obj;

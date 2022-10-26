@@ -8,7 +8,7 @@ export const appRoutes: Routes = [
   },
   {
     path: 'login',
-    title: 'DS | login',
+    title: 'Login | DS',
     loadComponent: () =>
       import('./pages/login/login.component').then((m) => m.LoginComponent),
   },
