@@ -50,14 +50,11 @@
 
 ###
 
+- [application link](https://nxng-ds.netlify.app)
 <!-- TODO: Add storybook components website link (Netlify or GH) -->
-<!-- TODO: Add login website link (Netlify or GH) -->
-
 <!-- TODO: Add storybook login website link (Netlify or GH) -->
 <!-- https://jurfest.github.io/nxng-design-system/ -->
-
 <!-- TODO: Compose components and login page storybooks and deploy -->
-
 <!-- TODO: Add figma ds link -->
 
 <!-- ### Thats it ! :wave:
