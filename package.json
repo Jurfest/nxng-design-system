@@ -8,8 +8,8 @@
     "start": "nx serve",
     "build": "nx build",
     "test": "nx test",
-    "build-storybook:components": "nx run shared-components:build-storybook",
-    "build-storybook:login": "nx run login:build-storybook",
+    "build-storybook:components": "npx nx run shared-components:build-storybook",
+    "build-storybook:login": "npx nx run login:build-storybook",
     "deploy-storybook": "storybook-to-ghpages"
   },
   "private": true,
