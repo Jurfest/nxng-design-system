@@ -7,7 +7,10 @@
     "postinstall": "node ./decorate-angular-cli.js",
     "start": "nx serve",
     "build": "nx build",
-    "test": "nx test"
+    "test": "nx test",
+    "build-storybook:components": "nx run shared-components:build-storybook",
+    "build-storybook:login": "nx run login:build-storybook",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "private": true,
   "dependencies": {
@@ -48,6 +51,7 @@
     "@storybook/core-server": "~6.5.9",
     "@storybook/jest": "^0.0.10",
     "@storybook/manager-webpack5": "~6.5.9",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/test-runner": "^0.9.0",
     "@storybook/testing-angular": "^0.0.12",
     "@storybook/testing-library": "^0.0.13",
