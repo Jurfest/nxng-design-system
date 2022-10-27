@@ -19,10 +19,10 @@ jobs:
           node-version: 16
 
       - name: Install dependencies
-        run: yarn ci --legacy-peer-deps
+        run: npm ci --legacy-peer-deps
 
       - name: Build Storybook
-        run: yarn run build-storybook:login
+        run: npm run build-storybook:login
 
       - name: Deploy Storybook
         run: npm run deploy-storybook:login -- --ci --existing-output-dir=dist/storybook
