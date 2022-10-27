@@ -22,9 +22,9 @@ jobs:
         run: npm ci --legacy-peer-deps
 
       - name: Build Storybook
-        run: npm run build-storybook
+        run: npm run build-storybook:login
 
       - name: Deploy Storybook
-        run: npm run deploy-storybook -- --ci --existing-output-dir=dist/login
+        run: npm run deploy-storybook:login -- --ci --existing-output-dir=dist/login
         env:
           GH_TOKEN: ${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}
