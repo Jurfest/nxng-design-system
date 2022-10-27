@@ -42,20 +42,20 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/diegojurfest/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-- [application link](https://nxng-ds.netlify.app)
+- [Application link](https://nxng-ds.netlify.app) (Google Chrome support only)
 <!-- TODO: Add storybook components website link (Netlify or GH) -->
 <!-- TODO: Add storybook login website link (Netlify or GH) -->
 <!-- https://jurfest.github.io/nxng-design-system/ -->
 <!-- TODO: Compose components and login page storybooks and deploy -->
 <!-- TODO: Add figma ds link -->
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diegojurfest/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <!-- ### Thats it ! :wave:
 
