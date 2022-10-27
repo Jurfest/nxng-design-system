@@ -25,6 +25,6 @@ jobs:
         run: npm run build-storybook:login
 
       - name: Deploy Storybook
-        run: npm run deploy-storybook:login -- --ci --existing-output-dir=dist/login
+        run: npm run deploy-storybook -- --ci --existing-output-dir=dist/login
         env:
           GH_TOKEN: ${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}
