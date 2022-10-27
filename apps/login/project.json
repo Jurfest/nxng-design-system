@@ -19,7 +19,8 @@
           "apps/login/src/favicon.ico",
           "apps/login/src/assets",
           "apps/login/src/mockServiceWorker.js",
-          "apps/login/src/netlify.toml"
+          "apps/login/src/netlify.toml",
+          "apps/login/src/_redirects"
         ],
         "styles": ["apps/login/src/styles.scss"],
         "scripts": []
