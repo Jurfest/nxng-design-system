@@ -56,8 +56,8 @@
   </a>
 </div>
 
-### Thats it ! :wave:
+---
 
-<div></div>
+### Thats it ! :wave:
 
 by Diego Jurfest :tada:
