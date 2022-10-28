@@ -42,12 +42,12 @@
 
 ###
 
-- [Application link](https://nxng-ds.netlify.app) (Google Chrome support only)
-<!-- TODO: Add storybook components website link (Netlify or GH) -->
-<!-- TODO: Add storybook login website link (Netlify or GH) -->
-<!-- https://jurfest.github.io/nxng-design-system/ -->
-<!-- TODO: Compose components and login page storybooks and deploy -->
-<!-- TODO: Add figma ds link -->
+- [Application](https://nxng-ds.netlify.app) (Google Chrome support only)
+- [Storybook (page)](https://635b1a669687bc9ada4c876d-mdmbadwghl.chromatic.com) (Google Chrome support only)
+  <!-- TODO: Add storybook components website link (GH) -->
+  <!-- https://jurfest.github.io/nxng-design-system/ -->
+  <!-- TODO: Compose components and login page storybooks and deploy -->
+  <!-- TODO: Add figma ds link -->
 
 ###
 

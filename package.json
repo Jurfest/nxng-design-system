@@ -10,7 +10,8 @@
     "test": "nx test",
     "build-storybook:components": "npx nx run shared-components:build-storybook",
     "build-storybook": "npx nx run login:build-storybook",
-    "deploy-storybook": "storybook-to-ghpages"
+    "deploy-storybook": "storybook-to-ghpages",
+    "chromatic": "npx chromatic --project-token=003804771934"
   },
   "private": true,
   "dependencies": {
@@ -80,5 +81,7 @@
   },
   "msw": {
     "workerDirectory": "apps/login/src"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "nxng-ds@0.0.0"
 }
