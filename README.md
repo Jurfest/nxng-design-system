@@ -43,6 +43,7 @@
 ###
 
 <!-- - [Application](https://nxng-ds.netlify.app) (Google Chrome support only) -->
+
 - [Nx Ng Design System Storybook](https://635b1a669687bc9ada4c876d-uuhzrvullo.chromatic.com) - (Google Chrome support only)
 - [Application design on Figma](https://www.figma.com/file/vRjQBHN8Frx6zejrfLlGu8/Untitled?node-id=1%3A2)
 
@@ -58,6 +59,7 @@
 
 ### Thats it ! :wave:
 
-by Diego Jurfest <a href="https://www.linkedin.com/in/diegojurfest/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="30" width="42" alt="linkedin logo"  />
-  </a> 
+by Diego Jurfest
+<a href="https://www.linkedin.com/in/diegojurfest/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="30" width="42" alt="linkedin logo"  />
+</a>
