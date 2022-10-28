@@ -43,8 +43,8 @@
 ###
 
 <!-- - [Application](https://nxng-ds.netlify.app) (Google Chrome support only) -->
-- [Storybook](https://635b1a669687bc9ada4c876d-uuhzrvullo.chromatic.com) - (Google Chrome support only)
-- [Figma](https://www.figma.com/file/vRjQBHN8Frx6zejrfLlGu8/Untitled?node-id=1%3A2)
+- [Nx Ng Design System Storybook](https://635b1a669687bc9ada4c876d-uuhzrvullo.chromatic.com) - (Google Chrome support only)
+- [Application design on Figma](https://www.figma.com/file/vRjQBHN8Frx6zejrfLlGu8/Untitled?node-id=1%3A2)
 
 ###
 
@@ -56,8 +56,6 @@
 
 ### Thats it ! :wave:
 
--
---
 ---
 ----
 -----
