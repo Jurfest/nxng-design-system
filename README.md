@@ -4,16 +4,15 @@
   My result, using Angular and Nrwl Nx (monorepo), after completing the Rocketseat online course (available on their platform): "Ignite Lab: Building a Design System with React and Figma"
 </h4> -->
 
-###
+<!-- ###
 
 <p align="center">
-  <a href="#computer-technologies">Technologies</a>
-  <!-- <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installing-the-application">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_facing_up-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a> -->
+  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
 </p>
-<br><br>
+<br><br> -->
 
 ###
 
