@@ -2,8 +2,8 @@ module.exports = {
   stories: [],
   addons: [
     '@storybook/addon-interactions',
-    '@storybook/addon-essentials',
     '@storybook/addon-a11y',
+    '@storybook/addon-essentials',
   ],
   features: {
     interactionsDebugger: true, // 👈 Enable playback controls
