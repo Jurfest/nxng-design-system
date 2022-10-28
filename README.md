@@ -42,8 +42,8 @@
 
 ###
 
-- [Application](https://nxng-ds.netlify.app) (Google Chrome support only)
-- [Storybook (page)](https://635b1a669687bc9ada4c876d-mdmbadwghl.chromatic.com) (Google Chrome support only)
+<!-- - [Application](https://nxng-ds.netlify.app) (Google Chrome support only) -->
+- [Storybook (page)](https://635b1a669687bc9ada4c876d-ilrndpyyrv.chromatic.com) - (Google Chrome support only)
   <!-- TODO: Add storybook components website link (GH) -->
   <!-- https://jurfest.github.io/nxng-design-system/ -->
   <!-- TODO: Compose components and login page storybooks and deploy -->
