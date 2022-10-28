@@ -48,8 +48,7 @@
 
 ###
 
-<div></div>
-<div></div>
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diegojurfest/">
@@ -60,7 +59,5 @@
 ### Thats it ! :wave:
 
 <div></div>
-
----
 
 by Diego Jurfest :tada:
