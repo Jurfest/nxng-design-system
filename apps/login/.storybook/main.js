@@ -3,6 +3,16 @@ const rootMain = require('../../../.storybook/main');
 module.exports = {
   ...rootMain,
 
+  title: 'Application',
+
+  refs: {
+    'design-system': {
+      title: 'Design System',
+      url: 'https://635b1a669687bc9ada4c876d-jollijylox.chromatic.com',
+      // expanded: false, // optional, true by default
+    },
+  },
+
   core: { ...rootMain.core, builder: 'webpack5' },
 
   stories: [

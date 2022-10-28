@@ -4,15 +4,16 @@
   My result, using Angular and Nrwl Nx (monorepo), after completing the Rocketseat online course (available on their platform): "Ignite Lab: Building a Design System with React and Figma"
 </h4> -->
 
-<!-- ###
+###
 
 <p align="center">
-  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technologies">Technologies</a>
+  <!-- <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installing-the-application">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_facing_up-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
+  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a> -->
 </p>
-<br><br> -->
+<br><br>
 
 ###
 
@@ -43,11 +44,8 @@
 ###
 
 <!-- - [Application](https://nxng-ds.netlify.app) (Google Chrome support only) -->
-- [Storybook (page)](https://635b1a669687bc9ada4c876d-ilrndpyyrv.chromatic.com) - (Google Chrome support only)
-  <!-- TODO: Add storybook components website link (GH) -->
-  <!-- https://jurfest.github.io/nxng-design-system/ -->
-  <!-- TODO: Compose components and login page storybooks and deploy -->
-  <!-- TODO: Add figma ds link -->
+- [Storybook](https://635b1a669687bc9ada4c876d-uuhzrvullo.chromatic.com) - (Google Chrome support only)
+- [Figma](https://www.figma.com/file/vRjQBHN8Frx6zejrfLlGu8/Untitled?node-id=1%3A2)
 
 ###
 
@@ -57,8 +55,8 @@
   </a>
 </div>
 
-<!-- ### Thats it ! :wave:
+### Thats it ! :wave:
 
 ---
 
-by Diego Jurfest :tada: -->
+by Diego Jurfest :tada:
