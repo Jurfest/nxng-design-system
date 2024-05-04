@@ -25,41 +25,67 @@
 
 ###
 
-<!-- ### Features -->
-> **Angular Components**:
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="84" alt="angular logo"  align="right" />
->
-> A collection of reusable UI components
->
-> built with the Angular Framework.
+### :test_tube: Features
 
-> **Nx Workspace**: 
-> <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="55" width="77" alt="nx logo"  align="right" />
->
-> Utilizes Nx to manage monorepo architecture,
->
-> facilitating code sharing and scaling.
+<details>
+  <summary>Angular</summary>
 
-> **Tailwind CSS**:
-> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="55" width="77" alt="tailwindcss logo"  align="right" />
->
-> Integrates Tailwind CSS for rapid UI
->
-> development and customization.
+  > **Angular Components**:
+  > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="84" alt="angular logo"  align="right" />
+  >
+  > A collection of reusable UI components
+  >
+  > built with the Angular Framework.
 
-> **Storybook Integration**:
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="77" alt="storybook logo"  align="right" />
->
-> Includes Storybook for component-driven
->
-> development and documentation.
+</details>
 
-> **Design Prototyping**:
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="77" alt="figma logo"  align="right" />
->
-> Figma for design prototyping 
->
-> and collaboration.
+<details>
+  <summary>Nx</summary>
+    
+  > **Nx Workspace**: 
+  > <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="55" width="77" alt="nx logo"  align="right" />
+  >
+  > Utilizes Nx to manage monorepo architecture,
+  >
+  > facilitating code sharing and scaling.
+
+</details>
+
+<details>
+  <summary>Tailwind CSS</summary>
+  
+  > **Tailwind CSS**:
+  > <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="55" width="77" alt="tailwindcss logo"  align="right" />
+  >
+  > Integrates Tailwind CSS for rapid UI
+  >
+  > development and customization.
+
+</details>
+
+<details>
+  <summary>Tailwind CSS</summary>
+  
+  > **Storybook Integration**:
+  > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="77" alt="storybook logo"  align="right" />
+  >
+  > Includes Storybook for component-driven
+  >
+  > development and documentation.
+
+</details>
+
+<details>
+  <summary>Tailwind CSS</summary>
+  
+  > **Design Prototyping**:
+  > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="77" alt="figma logo"  align="right" />
+  >
+  > Figma for design prototyping 
+  >
+  > and collaboration.
+
+</details>
 
 <!-- 
 <div align="center">
