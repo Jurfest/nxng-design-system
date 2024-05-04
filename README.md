@@ -31,11 +31,11 @@
   <summary>Angular</summary>
 
   > **Angular Components**:
-  > <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="64" width="90" alt="angular logo"  align="right" />
-   
-    A collection of reusable UI components
-   
-    built with the Angular Framework.
+  > <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="70" width="100" alt="angular logo"  align="right" />
+  >
+  >  A collection of reusable UI components
+  >
+  >  built with the Angular Framework.
 
 </details>
 
@@ -43,7 +43,7 @@
   <summary>Nx</summary>
     
   > **Nx Workspace**: 
-  > <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="55" width="77" alt="nx logo"  align="right" />
+  > <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="77" alt="nx logo"  align="right" />
   >
   > Utilizes Nx to manage monorepo architecture,
   >
