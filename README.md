@@ -31,11 +31,11 @@
   <summary>Angular</summary>
 
   > **Angular Components**:
-  > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="84" alt="angular logo"  align="right" />
-  >
-  > A collection of reusable UI components
-  >
-  > built with the Angular Framework.
+  > <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="64" width="90" alt="angular logo"  align="right" />
+   
+    A collection of reusable UI components
+   
+    built with the Angular Framework.
 
 </details>
 
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-  <summary>Tailwind CSS</summary>
+  <summary>Storybook</summary>
   
   > **Storybook Integration**:
   > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="77" alt="storybook logo"  align="right" />
@@ -76,7 +76,7 @@
 </details>
 
 <details>
-  <summary>Tailwind CSS</summary>
+  <summary>Figma</summary>
   
   > **Design Prototyping**:
   > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="77" alt="figma logo"  align="right" />
