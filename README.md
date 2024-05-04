@@ -25,21 +25,34 @@
 
 ###
 
+<!-- ### Features -->
+# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> **Angular**: A collection of reusable UI components built with the Angular Framework.
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" width="77" alt="angular logo"  align="right" />
+
+> **Nx Workspace**: Utilizes Nx to manage monorepo architecture, facilitating code sharing and scaling.
+> <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="55" width="77" alt="nx logo"  align="right" />
+
+> **Tailwind CSS**: Integrates Tailwind CSS for rapid UI development and customization.
+> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="55" width="77" alt="tailwindcss logo"  align="right" />
+
+> **Storybook Integration**: Includes Storybook for component-driven development and documentation.
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="77" alt="storybook logo"  align="right" />
+
+> **Design Prototyping**: Figma for design prototyping and collaboration.
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="77" alt="figma logo"  align="right" />
+
+
 <div align="center">
   <a href="https://angular.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" width="77" alt="angular logo"  />
   </a>
   <a href="https://nx.dev/">
-    <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="77" alt="nx logo">
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="55" width="77" alt="tailwindcss logo"  />
   </a>
   <a href="https://storybook.js.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="77" alt="storybook logo"  />
   </a>
   <a href="https://www.figma.com/design/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="77" alt="figma logo"  />
   </a>
 </div>
 <div>
@@ -50,14 +63,6 @@
 <!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div> -->
-
-### Features
-
-- **Angular**: A collection of reusable UI components built with the Angular Framework.
-- **Nx Workspace**: Utilizes Nx to manage monorepo architecture, facilitating code sharing and scaling.
-- **Tailwind CSS**: Integrates Tailwind CSS for rapid UI development and customization.
-- **Storybook Integration**: Includes Storybook for component-driven development and documentation.
-- **Design Prototyping**: Figma for design prototyping and collaboration.
 
 ### Live Resources
 
