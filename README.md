@@ -1,4 +1,4 @@
-<link href="style.scss" rel="stylesheet"></link>
+<link href="markdown-style.scss" rel="stylesheet"></link>
 
 <h2 align="left">Design System with Angular and Nx</h2>
 
