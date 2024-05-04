@@ -31,9 +31,7 @@
   <summary>Angular</summary>
 
   > **Angular Components**:
-  > <a href="https://angular.io/" align="right" >
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="70" width="100" alt="angular logo" />
-  </a> 
+  > <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="70" width="100" alt="angular logo" align="right" />
   >
   >  A collection of reusable UI components
   >
