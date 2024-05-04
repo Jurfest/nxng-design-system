@@ -1,9 +1,4 @@
-<style>
-.link-container a {
-  text-decoration: none;
-  margin: 0 10px;
-}
-</style>
+<link href="style.scss" rel="stylesheet"></link>
 
 <h2 align="left">Design System with Angular and Nx</h2>
 
