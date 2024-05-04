@@ -17,19 +17,19 @@
 ###
 
 <div align="center">
-  <a href="https://angular.io/">
+  <a href="https://angular.io/" style="text-decoration: none; margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
   </a>
-  <a href="https://nx.dev/">
+  <a href="https://nx.dev/" style="text-decoration: none; margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="42" alt="nx logo">
   </a>
-  <a href="https://tailwindcss.com/">
+  <a href="https://tailwindcss.com/" style="text-decoration: none; margin: 0 10px;">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" width="42" alt="tailwindcss logo"  />
   </a>
-  <a href="https://storybook.js.org/">
+  <a href="https://storybook.js.org/" style="text-decoration: none; margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo"  />
   </a>
-  <a href="https://www.figma.com/design/">
+  <a href="https://www.figma.com/design/" style="text-decoration: none; margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   </a>
 </div>
