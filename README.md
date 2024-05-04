@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://angular.io/">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="60" width="84" alt="angularjs logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="70" width="100" alt="angularjs logo"  />
   </a>
   <a href="https://nx.dev/">
     <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="84" alt="nx logo">
