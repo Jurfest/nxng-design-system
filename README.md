@@ -27,19 +27,19 @@
 
 <div align="center">
   <a href="https://angular.io/">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="55" width="84" alt="angularjs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" width="77" alt="angular logo"  />
   </a>
   <a href="https://nx.dev/">
-    <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="84" alt="nx logo">
+    <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="77" alt="nx logo">
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="55" width="84" alt="tailwindcss logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="55" width="77" alt="tailwindcss logo"  />
   </a>
   <a href="https://storybook.js.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="84" alt="storybook logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="77" alt="storybook logo"  />
   </a>
   <a href="https://www.figma.com/design/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="84" alt="figma logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="77" alt="figma logo"  />
   </a>
 </div>
 <div>
@@ -50,6 +50,14 @@
 <!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div> -->
+
+##3 Features
+
+- **Angular**: A collection of reusable UI components built with the Angular Framework.
+- **Nx Workspace**: Utilizes Nx to manage monorepo architecture, facilitating code sharing and scaling.
+- **Tailwind CSS**: Integrates Tailwind CSS for rapid UI development and customization.
+- **Storybook Integration**: Includes Storybook for component-driven development and documentation.
+- **Design Prototyping**: Figma for design prototyping and collaboration.
 
 ###
 
