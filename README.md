@@ -29,48 +29,39 @@
 > **Angular Components**:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="84" alt="angular logo"  align="right" />
 >
->A collection of reusable
+> A collection of reusable UI components
 >
->UI components built with
->
->the Angular Framework.
+> built with the Angular Framework.
 
 > **Nx Workspace**: 
 > <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="55" width="77" alt="nx logo"  align="right" />
-
-Utilizes Nx to manage monorepo
-
-architecture, facilitating code
-
-sharing and scaling.
+>
+> Utilizes Nx to manage monorepo architecture,
+>
+> facilitating code sharing and scaling.
 
 > **Tailwind CSS**:
 > <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="55" width="77" alt="tailwindcss logo"  align="right" />
-
-Integrates Tailwind CSS for
-
-rapid UI development and
-
-customization.
-
+>
+> Integrates Tailwind CSS for rapid UI
+>
+> development and customization.
 
 > **Storybook Integration**:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" width="77" alt="storybook logo"  align="right" />
-
-Includes Storybook for 
-
-component-driven development 
-
-and documentation.
-
+>
+> Includes Storybook for component-driven
+>
+> development and documentation.
 
 > **Design Prototyping**:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" width="77" alt="figma logo"  align="right" />
+>
+> Figma for design prototyping 
+>
+> and collaboration.
 
-Figma for design prototyping 
-
-and collaboration.
-
+<!-- 
 <div align="center">
   <a href="https://angular.io/">
   </a>
@@ -83,8 +74,7 @@ and collaboration.
   <a href="https://www.figma.com/design/">
   </a>
 </div>
-<div>
-</div>
+-->
 
 ###
 
