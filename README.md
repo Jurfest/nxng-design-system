@@ -34,7 +34,8 @@
   </a>
 </div>
 
-![Angular Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg =30x) ![Nx Logo](https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png =30x) ![Tailwind CSS Logo](https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg =30x) ![Storybook Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg =30x) ![Figma Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg =30x)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30">](https://angular.io/)
+
 
 ###
 
