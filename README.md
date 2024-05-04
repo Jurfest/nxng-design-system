@@ -26,15 +26,14 @@
 ###
 
 <!-- ### Features -->
-# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > **Angular Components**:
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" width="77" alt="angular logo"  align="right" />
-
-A collection of reusable
-
-UI components built with
-
-the Angular Framework.
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="84" alt="angular logo"  align="right" />
+>
+>A collection of reusable
+>
+>UI components built with
+>
+>the Angular Framework.
 
 > **Nx Workspace**: 
 > <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="55" width="77" alt="nx logo"  align="right" />
