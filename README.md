@@ -1,3 +1,12 @@
+<!-- markdownlint-configure-file {
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  },
+  "MD033": false,
+  "MD041": false
+} -->
+
 <h2 align="left">Design System with Angular and Nx</h2>
 
 <!-- <h4 align="center">
@@ -18,19 +27,19 @@
 
 <div align="center">
   <a href="https://angular.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="84" alt="angularjs logo"  />
   </a>
   <a href="https://nx.dev/">
-    <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="42" alt="nx logo">
+    <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="84" alt="nx logo">
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" width="42" alt="tailwindcss logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="60" width="84" alt="tailwindcss logo"  />
   </a>
   <a href="https://storybook.js.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" width="84" alt="storybook logo"  />
   </a>
   <a href="https://www.figma.com/design/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" width="84" alt="figma logo"  />
   </a>
 </div>
 <div>
