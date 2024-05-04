@@ -51,7 +51,7 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div> -->
 
-##3 Features
+### Features
 
 - **Angular**: A collection of reusable UI components built with the Angular Framework.
 - **Nx Workspace**: Utilizes Nx to manage monorepo architecture, facilitating code sharing and scaling.
@@ -59,7 +59,7 @@
 - **Storybook Integration**: Includes Storybook for component-driven development and documentation.
 - **Design Prototyping**: Figma for design prototyping and collaboration.
 
-###
+### Live Resources
 
 <!-- - [Application](https://nxng-ds.netlify.app) (Google Chrome support only) -->
 - [Nx Ng Design System Storybook](https://635b1a669687bc9ada4c876d-uuhzrvullo.chromatic.com) - (Google Chrome support only)
