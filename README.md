@@ -1,3 +1,10 @@
+<style>
+.link-container a {
+  text-decoration: none;
+  margin: 0 10px;
+}
+</style>
+
 <h2 align="left">Design System with Angular and Nx</h2>
 
 <!-- <h4 align="center">
@@ -33,13 +40,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   </a>
 </div>
-
-<style>
-.link-container a {
-  text-decoration: none;
-  margin: 0 10px;
-}
-</style>
 
 ###
 
