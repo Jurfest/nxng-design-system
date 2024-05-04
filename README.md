@@ -17,24 +17,21 @@
 ###
 
 <div align="center">
-  <a href="https://angular.io/">
+  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
   </a>
-  <a href="https://nx.dev/">
+  <a href="https://nx.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="42" alt="nx logo">
   </a>
-  <a href="https://tailwindcss.com/">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" width="42" alt="tailwindcss logo"  />
   </a>
-  <a href="https://storybook.js.org/">
+  <a href="https://storybook.js.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo"  />
   </a>
-  <a href="https://www.figma.com/design/">
+  <a href="https://www.figma.com/design/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   </a>
-
-  ![Angular Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg =30x) ![Nx Logo](https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png =30x) ![Tailwind CSS Logo](https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg =30x) ![Storybook Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg =30x) ![Figma Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg =30x)
-
 </div>
 
 ###
