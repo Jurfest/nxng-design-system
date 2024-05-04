@@ -33,8 +33,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   </a>
 </div>
-
+<div>
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30">](https://angular.io/)
+</div>
 
 
 ###
